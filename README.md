@@ -23,6 +23,8 @@ An assignment focused on the regression problem of wine quality and beer consump
 
 ## Classification problems
 
+### Logistic Regression
+
 [Github](https://github.com/bennyho94/Benny.github.io/blob/main/Assignment_logistic_regression.ipynb)
 [nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Assignment_logistic_regression.ipynb)
 
@@ -33,6 +35,15 @@ This notebook consists of 4 exercises of the following problems:
 - Humany activity: predict the activity of a person based on the smartphones information.
 
 The logistic regression algorithm has been applied for dealing with the problems.
+
+### SVM
+
+This notebook consists of 3 exercises of the following problems:
+- Cancer detection: predict whether it is malicious or beneign
+- MNIST: goal is to correctly identify digits from a dataset of thens of thousands of handwritten images
+- 50K a year: predict whether someone is earning more than 50k a year or not
+
+All problems has been solved with LR and SVM algorithms. Furthermore, hyperparemeter tuning has been used with random search and grid search.
 
 ## Cybersecurity
 
