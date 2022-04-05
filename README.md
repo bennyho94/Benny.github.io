@@ -58,4 +58,5 @@ For my graduation work, I've made a restaurant chatbot. The purpose of the proje
 
 [Github](https://github.com/bennyho94/Benny.github.io/blob/main/Song_segment.ipynb)
 [nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Song_segment.ipynb)
+
 Predicting the genre of a song given a segment of lyrics with NLP libraries and RNN algorithm. The dataset is from a Kaggle competition "RNN Competition 2020-2021"
