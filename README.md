@@ -62,7 +62,10 @@ Problems have been solved with LR, SVM and Naive Bayes algorithm with hyperparam
 
 ### Decision Trees Ensemble Methods
 
-Predicting whether a meteor is dangerous or not based on the nasa dataset with random forest classifier and adaboost.
+[Github](https://github.com/bennyho94/Benny.github.io/blob/main/Assignment_Decision_Trees_Ensemble_Methods.ipynb)
+[nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Assignment_Decision_Trees_Ensemble_Methods.ipynb)
+
+Predicting whether a meteor is dangerous or not based on the NASA dataset with random forest classifier and adaboost.
 
 ## Cybersecurity
 
