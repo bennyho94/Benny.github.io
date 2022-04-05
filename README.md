@@ -37,3 +37,7 @@ The CIDDS-01 dataset was produced by simulating a network of computers (on virtu
 
 ### CIC18
 
+[Github](https://github.com/bennyho94/Benny.github.io/blob/main/Assignment_4_CIC18.ipynb)
+[nbviewer](http://nbviewer.jupyter.org/github.com/bennyho94/Benny.github.io/blob/main/Assignment_4_CIC18.ipynb)
+
+This notebook solves the problem of CIC'18 dataset while holding some of the tools as zero-day attacks. Binary classification has been applied for this problem.
