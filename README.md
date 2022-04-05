@@ -41,3 +41,15 @@ The CIDDS-01 dataset was produced by simulating a network of computers (on virtu
 [nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Assignment_4_CIC18.ipynb)
 
 This notebook solves the problem of CIC'18 dataset while holding some of the tools as zero-day attacks. Binary classification has been applied for this problem.
+
+## Natural Language Processing
+
+### Restaurant Chatbot
+
+[Github](https://github.com/bennyho94/Benny.github.io/blob/main/chatbot_machine_learning_benny_ho.ipynb)
+[nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/chatbot_machine_learning_benny_ho.ipynb)
+
+[Github](https://github.com/bennyho94/Benny.github.io/blob/main/chatbot_deep_learning_benny_ho.ipynb)
+[nbviewer](http://nbviewer.jupyter.org/github.com/bennyho94/Benny.github.io/blob/main/chatbot_deep_learning_benny_ho.ipynb)
+
+For my graduation work, I've made a restaurant chatbot. The purpose of the project was to automate the process and provide a better customer experience and engagement throughout the website of the external client. The project consists of 2 notebooks with Machine Learning and Deep Learning algorithms.
