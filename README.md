@@ -25,6 +25,7 @@ An assignment based on the KDD intrusion detection contest from 1999. The goal w
 
 [Github](https://github.com/bennyho94/Benny.github.io/blob/main/Assignment_2_NSL_KDD.ipynb)
 [nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Assignment_2_NSL_KDD.ipynb)
+
 This notebook solves a lot of the problems the KDD'99 dataset has, which identified samples that are hard to classify by using basic machine learning algorithms.
 
 ### CIDDS-01
