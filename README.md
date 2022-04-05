@@ -28,7 +28,7 @@ An assignment focused on the regression problem of wine quality and beer consump
 [Github](https://github.com/bennyho94/Benny.github.io/blob/main/Assignment_logistic_regression.ipynb)
 [nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Assignment_logistic_regression.ipynb)
 
-This notebook consists of 4 exercises of the following problems:
+This notebook consists of 4 exercises with the following problems:
 - Diabetes: predict whether a patient has diabetes or not
 - Human resources: predict whether an employee is leaving the job soon or not
 - Star wars: predict whether someone is a star wars fan or not
@@ -41,7 +41,7 @@ The logistic regression algorithm has been applied for dealing with the problems
 [Github](https://github.com/bennyho94/Benny.github.io/blob/main/Assignment_SVM.ipynb)
 [nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Assignment_SVM.ipynb)
 
-This notebook consists of 3 exercises of the following problems:
+This notebook consists of 3 exercises with the following problems:
 - Cancer detection: predict whether it is malicious or beneign
 - MNIST: goal is to correctly identify digits from a dataset of thens of thousands of handwritten images
 - 50K a year: predict whether someone is earning more than 50k a year or not
@@ -50,6 +50,12 @@ All problems have been solved with LR and SVM algorithms. Furthermore, hyperpare
 
 ### Naive Bayes - NLP
 
+This assignment consists of 4 exercises with the following problems:
+- Sentiment analysis of text messages
+- Predict the rating of the customer based on reviews
+- Predict cyber trolls based on text messages on the internet
+
+Problems have been solved with LR, SVM and Naive Bayes algorithm with hyperparameter tuning.
 ## Cybersecurity
 
 ### KDD'99
