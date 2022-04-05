@@ -23,12 +23,16 @@ An assignment focused on the regression problem of wine quality and beer consump
 
 ## Classification problems
 
+[Github](https://github.com/bennyho94/Benny.github.io/blob/main/Assignment_logistic_regression.ipynb)
+[nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Assignment_logistic_regression.ipynb)
+
 This notebook consists of 4 exercises of the following problems:
 - diabetes
 - Human resources
 - Star wars
 - Humany activity
-The logistic regression algorithms has been applied for dealing with the problems
+
+The logistic regression algorithm has been applied for dealing with the problems.
 
 ## Cybersecurity
 
