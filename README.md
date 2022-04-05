@@ -50,12 +50,17 @@ All problems have been solved with LR and SVM algorithms. Furthermore, hyperpare
 
 ### Naive Bayes - NLP
 
+[Github](https://github.com/bennyho94/Benny.github.io/blob/main/Assignment_Naives_Bayes.ipynb)
+[nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Assignment_Naives_Bayes.ipynb)
+
 This assignment consists of 3 exercises with the following problems:
 - Sentiment analysis of text messages
 - Predicting the rating of the customer based on reviews
 - Predicting cyber trolls based on text messages from the internet
 
 Problems have been solved with LR, SVM and Naive Bayes algorithm with hyperparameter tuning.
+
+
 ## Cybersecurity
 
 ### KDD'99
