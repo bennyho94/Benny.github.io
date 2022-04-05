@@ -70,6 +70,9 @@ Predicting if emails are spam or ham with applying bag of words for the ML algor
 
 ## Neural networks
 
-### Hotel booking - Multilayer Perceptron Model
+### Hotel bookings - Multilayer Perceptron Model
 
-This notebook solves the problem about hotel bookings whether they are cancelled or not. I've applied the MLP algorithm with several regularization methods.
+[Github](https://github.com/bennyho94/Benny.github.io/blob/main/Hotel_Bookings.ipynb)
+[nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Hotel_Bookings.ipynb)
+
+This notebook solves the problem about hotel bookings whether they are cancelled or not.The MLP algorithm has been applied with several regularization methods.
