@@ -14,8 +14,14 @@ This portfolio is a compilation of notebooks which I created for exploration of 
 
 ## Cybersecurity
 
-### Assignment 1
-### Assignment 2
-### Assignment 3
-### Assignment 4
+### KDD'99
+
+[Github](https://github.com/bennyho94/Benny.github.io/blob/main/Assignment_1_KDD99.ipynb)
+[nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Assignment_1_KDD99.ipynb)
+
+An assignment based on the KDD intrusion detection contest from 1999. The goal was to make an intrusion detection system using machine learning which can differentiate between normal connections and attacks on the network. This is a simple binary classification task which consists of two classes for predictions.
+
+### NSL-KDD
+### CIDDS-01
+### CIC18
 
