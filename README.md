@@ -50,10 +50,10 @@ All problems have been solved with LR and SVM algorithms. Furthermore, hyperpare
 
 ### Naive Bayes - NLP
 
-This assignment consists of 4 exercises with the following problems:
+This assignment consists of 3 exercises with the following problems:
 - Sentiment analysis of text messages
-- Predict the rating of the customer based on reviews
-- Predict cyber trolls based on text messages on the internet
+- Predicting the rating of the customer based on reviews
+- Predicting cyber trolls based on text messages from the internet
 
 Problems have been solved with LR, SVM and Naive Bayes algorithm with hyperparameter tuning.
 ## Cybersecurity
