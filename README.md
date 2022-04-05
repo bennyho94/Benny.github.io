@@ -67,3 +67,9 @@ Predicting the genre of a song given a segment of lyrics with NLP libraries and 
 [nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Spam_or_ham_email_classification.ipynb)
 
 Predicting if emails are spam or ham with applying bag of words for the ML algorithm and word embedding for the DL algorithm.
+
+## Neural networks
+
+### Hotel booking - Multilayer Perceptron Model
+
+This notebook solves the problem about hotel bookings whether they are cancelled or not. I've applied the MLP algorithm with several regularization methods.
