@@ -16,6 +16,8 @@ This portfolio is a compilation of notebooks which I created for exploration of 
 
 ### Wine quality and beer consumption
 
+[Github](https://github.com/bennyho94/Benny.github.io/blob/main/Wine_quality_and_beer_consumption.ipynb)
+[nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Wine_quality_and_beer_consumption.ipynb)
 This assignment is focused on the regression problem of wine quality and beer consumption. Furthermore, model optimalisation has been applied.
 
 ## Cybersecurity
