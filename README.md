@@ -46,7 +46,7 @@ This notebook consists of 3 exercises with the following problems:
 - MNIST: goal is to correctly identify digits from a dataset of thens of thousands of handwritten images
 - 50K a year: predict whether someone is earning more than 50k a year or not
 
-All problems have been solved with LR and SVM algorithms. Furthermore, hyperparemeter tuning has been used with random search and grid search.
+All problems have been solved with LR and SVM algorithms. Furthermore, hyperpareaeter tuning has been used with random search and grid search.
 
 ### Naive Bayes - NLP
 
