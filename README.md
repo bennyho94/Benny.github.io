@@ -60,3 +60,10 @@ For my graduation work, I've made a restaurant chatbot. The purpose of the proje
 [nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Song_segment.ipynb)
 
 Predicting the genre of a song given a segment of lyrics with NLP libraries and RNN algorithm. The dataset is from a Kaggle competition "RNN Competition 2020-2021"
+
+### Spam or ham email classification
+
+[Github](https://github.com/bennyho94/Benny.github.io/blob/main/Spam_or_ham_email_classification.ipynb)
+[nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Spam_or_ham_email_classification.ipynb)
+
+Predicting if emails are spam or ham with applying bag of words for the ML algorithm and word embedding for the DL algorithm.
