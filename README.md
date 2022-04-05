@@ -21,6 +21,10 @@ This portfolio is a compilation of notebooks which I created for exploration of 
 
 This assignment is focused on the regression problem of wine quality and beer consumption. Furthermore, model optimalisation has been applied.
 
+### Classification problems
+
+
+
 ## Cybersecurity
 
 ### KDD'99
