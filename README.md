@@ -50,10 +50,12 @@ This notebook solves the problem of CIC'18 dataset while holding some of the too
 [nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/chatbot_machine_learning_benny_ho.ipynb)
 
 [Github](https://github.com/bennyho94/Benny.github.io/blob/main/chatbot_deep_learning_benny_ho.ipynb)
-[nbviewer](http://nbviewer.jupyter.org/github.com/bennyho94/Benny.github.io/blob/main/chatbot_deep_learning_benny_ho.ipynb)
+[nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/chatbot_deep_learning_benny_ho.ipynb)
 
 For my graduation work, I've made a restaurant chatbot. The purpose of the project was to automate the process and provide a better customer experience and engagement throughout the website of the external client. The project consists of 2 notebooks with Machine Learning and Deep Learning algorithms.
 
 ### Song Prediction - Recurrent Neural Network
 
+[Github](https://github.com/bennyho94/Benny.github.io/blob/main/Song_segment.ipynb)
+[nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Song_segment.ipynb)
 Predicting the genre of a song given a segment of lyrics with NLP libraries and RNN algorithm. The dataset is from a Kaggle competition "RNN Competition 2020-2021"
