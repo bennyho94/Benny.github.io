@@ -27,10 +27,10 @@ An assignment focused on the regression problem of wine quality and beer consump
 [nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Assignment_logistic_regression.ipynb)
 
 This notebook consists of 4 exercises of the following problems:
-- diabetes
-- Human resources
-- Star wars
-- Humany activity
+- Diabetes: predict whether a patient has diabetes or not
+- Human resources: predict whether an employee is leaving the job soon or not
+- Star wars: predict whether someone is a star wars fan or not
+- Humany activity: predict the activity of a person based on the smartphones information.
 
 The logistic regression algorithm has been applied for dealing with the problems.
 
