@@ -60,6 +60,9 @@ This assignment consists of 3 exercises with the following problems:
 
 Problems have been solved with LR, SVM and Naive Bayes algorithm with hyperparameter tuning.
 
+### Decision Trees Ensemble Methods
+
+Predicting whether a meteor is dangerous or not based on the nasa dataset with random forest classifier and adaboost.
 
 ## Cybersecurity
 
