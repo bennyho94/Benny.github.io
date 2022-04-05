@@ -21,9 +21,14 @@ This portfolio is a compilation of notebooks which I created for exploration of 
 
 An assignment focused on the regression problem of wine quality and beer consumption. Furthermore, model optimalisation has been applied.
 
-### Classification problems
+## Classification problems
 
-
+This notebook consists of 4 exercises of the following problems:
+- diabetes
+- Human resources
+- Star wars
+- Humany activity
+The logistic regression algorithms has been applied for dealing with the problems
 
 ## Cybersecurity
 
