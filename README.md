@@ -38,6 +38,9 @@ The logistic regression algorithm has been applied for dealing with the problems
 
 ### SVM
 
+[Github](https://github.com/bennyho94/Benny.github.io/blob/main/Assignment_SVM.ipynb)
+[nbviewer](http://nbviewer.jupyter.org/github/bennyho94/Benny.github.io/blob/main/Assignment_SVM.ipynb)
+
 This notebook consists of 3 exercises of the following problems:
 - Cancer detection: predict whether it is malicious or beneign
 - MNIST: goal is to correctly identify digits from a dataset of thens of thousands of handwritten images
