@@ -4,14 +4,6 @@
 
 This portfolio is a compilation of notebooks which I created for exploration of machine learning and deep learning algorithms.
 
-## Stand-alone projects
-
-### Project 1
-### Project 2
-### Project 3 
-### Project 4
-### Project 5
-
 ## Regression problems
 
 ### Wine quality and beer consumption
